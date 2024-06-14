@@ -1,1 +1,2 @@
 scrapy runspider scrapy.py -o quotes.json
+inserir aqui o comando shell: scrapy shell "link da página (https://..."
