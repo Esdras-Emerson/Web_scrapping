@@ -1,1 +1,0 @@
-scrapy runspider scrapy.py -o quotes.json
